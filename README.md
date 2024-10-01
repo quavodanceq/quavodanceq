@@ -10,3 +10,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=quavodanceq&show_icons=true&locale=en&layout=compact" alt="quavodanceq" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=quavodanceq&" alt="quavodanceq" /></p>
+
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=quavodanceq&theme=dark&hide_border=true" alt="GitHub Streak" /></a>
