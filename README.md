@@ -1,5 +1,4 @@
-## Hi there 👋
-
+武士には目標はない、あるのは道だけだ
 <!--
 **quavodanceq/quavodanceq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
