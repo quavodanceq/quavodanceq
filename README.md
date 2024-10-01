@@ -1,5 +1,5 @@
 
-<h1 align="center">武士には目標はない、あるのは道だけだ>
+<h1 align="center">武士には目標はない、あるのは道だけだ
 
 <p align="left">
 </p>
